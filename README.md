@@ -1,4 +1,4 @@
-# Programming Model mapping between Kotlin Compose and Web UI
+# Compose2Web: Programming Model mapping between Kotlin Compose and Web UI
 
  **선언형 UI(Declarative UI)의 본질적인 멘탈 모델을 교육하기 위한 Playbook 접근 방식**
 
